@@ -1,0 +1,9 @@
+D:\Projects\C# Pluralsight\Classes\Classes\bin\Debug\netcoreapp1.1\Classes.deps.json
+D:\Projects\C# Pluralsight\Classes\Classes\bin\Debug\netcoreapp1.1\Classes.runtimeconfig.json
+D:\Projects\C# Pluralsight\Classes\Classes\bin\Debug\netcoreapp1.1\Classes.runtimeconfig.dev.json
+D:\Projects\C# Pluralsight\Classes\Classes\bin\Debug\netcoreapp1.1\Classes.dll
+D:\Projects\C# Pluralsight\Classes\Classes\bin\Debug\netcoreapp1.1\Classes.pdb
+D:\Projects\C# Pluralsight\Classes\Classes\obj\Debug\netcoreapp1.1\Classes.csprojResolveAssemblyReference.cache
+D:\Projects\C# Pluralsight\Classes\Classes\obj\Debug\netcoreapp1.1\Classes.AssemblyInfo.cs
+D:\Projects\C# Pluralsight\Classes\Classes\obj\Debug\netcoreapp1.1\Classes.dll
+D:\Projects\C# Pluralsight\Classes\Classes\obj\Debug\netcoreapp1.1\Classes.pdb

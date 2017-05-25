@@ -1,0 +1,6 @@
+D:\Projects\C# Pluralsight\ClassesNoCore\ClassesNoCore\bin\Debug\ClassesNoCore.exe.config
+D:\Projects\C# Pluralsight\ClassesNoCore\ClassesNoCore\bin\Debug\ClassesNoCore.exe
+D:\Projects\C# Pluralsight\ClassesNoCore\ClassesNoCore\bin\Debug\ClassesNoCore.pdb
+D:\Projects\C# Pluralsight\ClassesNoCore\ClassesNoCore\obj\Debug\ClassesNoCore.csprojResolveAssemblyReference.cache
+D:\Projects\C# Pluralsight\ClassesNoCore\ClassesNoCore\obj\Debug\ClassesNoCore.exe
+D:\Projects\C# Pluralsight\ClassesNoCore\ClassesNoCore\obj\Debug\ClassesNoCore.pdb
